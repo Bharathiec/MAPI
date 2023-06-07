@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100973" started-at="2023-05-29T05:05:47Z" finished-at="2023-05-29T05:07:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100973" started-at="2023-05-29T05:05:47Z" finished-at="2023-05-29T05:07:28Z">
+      <class name="org.search.Product">
+        <test-method status="PASS" signature="LoginPoj()[pri:1, instance:org.search.Product@643b1d11]" name="LoginPoj" duration-ms="41597" started-at="2023-05-29T10:35:47Z" finished-at="2023-05-29T10:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPoj -->
+        <test-method status="PASS" signature="addState()[pri:2, instance:org.search.Product@643b1d11]" name="addState" duration-ms="4251" started-at="2023-05-29T10:36:29Z" finished-at="2023-05-29T10:36:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addState -->
+        <test-method status="PASS" signature="addCity()[pri:3, instance:org.search.Product@643b1d11]" name="addCity" duration-ms="18856" started-at="2023-05-29T10:36:33Z" finished-at="2023-05-29T10:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCity -->
+        <test-method status="PASS" signature="addUserAddress()[pri:4, instance:org.search.Product@643b1d11]" name="addUserAddress" duration-ms="17469" started-at="2023-05-29T10:36:52Z" finished-at="2023-05-29T10:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserAddress -->
+        <test-method status="PASS" signature="addUpdate()[pri:5, instance:org.search.Product@643b1d11]" name="addUpdate" duration-ms="6357" started-at="2023-05-29T10:37:10Z" finished-at="2023-05-29T10:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUpdate -->
+        <test-method status="PASS" signature="addressGet()[pri:6, instance:org.search.Product@643b1d11]" name="addressGet" duration-ms="3141" started-at="2023-05-29T10:37:16Z" finished-at="2023-05-29T10:37:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressGet -->
+        <test-method status="PASS" signature="deleteUser()[pri:7, instance:org.search.Product@643b1d11]" name="deleteUser" duration-ms="4595" started-at="2023-05-29T10:37:19Z" finished-at="2023-05-29T10:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="productSearch()[pri:8, instance:org.search.Product@643b1d11]" name="productSearch" duration-ms="4013" started-at="2023-05-29T10:37:24Z" finished-at="2023-05-29T10:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearch -->
+      </class> <!-- org.search.Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
